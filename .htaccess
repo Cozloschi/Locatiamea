@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^page/([a-zA-Z0-9-]+)$ index.php?page=page&name=$1 [NC,L]
+RewriteRule ^point/([a-zA-Z0-9]+)$ index.php?page=point&id=$1 [NC,L]
+RewriteRule ^admin index.php?page=admin [NC,L]
+
+
+

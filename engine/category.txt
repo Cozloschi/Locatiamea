@@ -1,0 +1,8 @@
+Pizzerie
+Restaurant
+Hotel
+Terasa
+Bar
+Pensiune
+Turism
+Altceva
